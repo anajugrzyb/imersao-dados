@@ -6,7 +6,8 @@ Streamlit: https://imersao-dados-python--2025.streamlit.app/
 
 ## 🚀 Demonstração
 Para executar o projeto localmente:
-# Clone este repositório
+
+### Clone este repositório
 git clone git@github.com:anajugrzyb/imersao-dados.git
 
 ### Acesse a pasta do projeto
